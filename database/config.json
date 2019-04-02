@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "pgsql",
+    "password": "clounode",
+    "database": "db1",
+    "host": "192.168.44.142",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "pgsql",
+    "password": "clounode",
+    "database": "db1",
+    "host": "192.168.44.142",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "pgsql",
+    "password": "clounode",
+    "database": "db1",
+    "host": "192.168.44.142",
+    "dialect": "postgres"
+  }
+}
